@@ -39,4 +39,17 @@
             android:text="Submit" />
     </LinearLayout>
 
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="154dp"
+        android:background="?android:attr/fastScrollTrackDrawable"
+        android:ems="10"
+        android:gravity="start"
+        android:inputType="textPersonName"
+        android:text="Dodajte komentar..."
+        android:textAlignment="gravity"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#736F6F" />
+
 </LinearLayout>
